@@ -1,0 +1,11 @@
+{
+  "snake_color": [
+    255,
+    220,
+    0
+  ],
+  "grid": true,
+  "sound": true,
+  "car_color": "white",
+  "difficulty": "medium"
+}

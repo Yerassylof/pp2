@@ -1,0 +1,41 @@
+[
+  {
+    "id": 3,
+    "name": "gulvi",
+    "email": "ktresrdtkfylguh",
+    "birthday": "2007-12-23",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "763456",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "yerassyl",
+    "email": "wfqaeqaefawf",
+    "birthday": "2008-10-12",
+    "group": "Other",
+    "phones": [
+      {
+        "phone": "7378626838",
+        "type": "home"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "йцуке",
+    "email": "dfafa",
+    "birthday": "2121-12-12",
+    "group": "Friend",
+    "phones": [
+      {
+        "phone": "21241412124",
+        "type": "home"
+      }
+    ]
+  }
+]
